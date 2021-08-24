@@ -1,1 +1,2 @@
-# STAT 301 - Student facing repository
+# STAT 301 - Statistical Modelling for Data Science
+### Student facing repository
