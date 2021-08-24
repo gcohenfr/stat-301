@@ -1,9 +1,6 @@
 ## Syllabus
 
-Classical and simulation-based techniques for estimation and hypothesis testing,
-including inference for means and proportions. Emphasis on case studies and
-real data sets, as well as reproducible and transparent workflows when writing
-computer scripts for analysis and reports.
+Explanatory and predictive data analysis with multiple explanatory variables. Choosing the right methods to apply based on the statistical question and data at hand. Trade-offs between model-based and non-model based approaches. Emphasis placed on case studies and real data sets, as well as reproducible and transparent workflows when writing computer scripts for analysis and reports.
 
 ### Prerequisites
 - STAT 201: Statistical Inference for Data Science
@@ -53,8 +50,6 @@ will have visible tests. You can access the assignments through Canvas ([assignm
 To submit your assignment, make sure your work is saved
 **on our server** (i.e., using the link from Canvas) before the deadline.
 Our server will automatically snapshot at the due date/time. Also, please **do not** rename the assignments files.
-
-
 
 #### Assessments' Weights
 
@@ -179,8 +174,6 @@ If you have concerns about the way your work was graded, please open a request w
 
 #### Device/Browser
 Students are responsible for using a device and browser compatible with all functionality of Canvas. Chrome or Firefox browsers are recommended; Safari has had issues with Canvas quizzes in the past.
-
-
 
 #### Missed Final Exam 
 Students who miss the final exam must report to their faculty advising office within 72 hours of the missed exam, and must supply supporting documentation. Only your faculty advising office can grant deferred standing in a course. You must also notify your instructor prior to (if possible) or immediately after the exam. Your instructor will let you know when you are expected to write your deferred exam. Deferred exams will ONLY be provided to students who have applied for and received deferred standing from their faculty.
