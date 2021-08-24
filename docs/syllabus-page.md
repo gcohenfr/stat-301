@@ -7,6 +7,7 @@ computer scripts for analysis and reports.
 
 ### Prerequisites
 - STAT 201: Statistical Inference for Data Science
+- One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184, SCIE 001.
 - Access to a computer.
     - If a student does not have their own laptop or chromebook, students may be able to [loan a laptop from the UBC library](https://services.library.ubc.ca/computers-technology/technology-borrowing/).
 
