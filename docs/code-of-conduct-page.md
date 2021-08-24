@@ -66,4 +66,4 @@ not be seen by your current instructor, you can choose any of the instructors be
 
 ### Attribution
 
-Modified from [Code of Conduct of UBC's DSCI 100](https://github.com/UBC-DSCI/dsci-100/blob/master/CODE_OF_CONDUCT.md), which was derived from the[Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+Modified from [Code of Conduct of UBC's DSCI 100](https://github.com/UBC-DSCI/dsci-100/blob/master/CODE_OF_CONDUCT.md), which was derived from the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
