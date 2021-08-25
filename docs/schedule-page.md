@@ -208,8 +208,8 @@
         <tr>
             <td>#10</td>
             <td> Nov 07 ~ Nov 13 </td>
-            <td colspan="3" style="text-align: left;">
-                <p>Midterm Break</p>
+            <td colspan="3">
+                <p style="text-align: center;">Midterm Break</p>
             </td>
         </tr>
         <tr>
