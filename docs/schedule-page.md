@@ -128,6 +128,7 @@
                 <ul>
                     <li>Readings.</li>
                 </ul>
+            </td>
             <td style="text-align: left;">
                 <ul>
                     <li>Worksheet 06</li>
@@ -152,6 +153,7 @@
                 <ul>
                     <li>Readings.</li>
                 </ul>
+            </td>
             <td style="text-align: left;">
                 <ul>
                     <li>Worksheet 07</li>
@@ -171,6 +173,7 @@
                 <ul>
                     <li>Readings.</li>
                 </ul>
+            </td>
             <td style="text-align: left;">
                 <ul>
                     <li>Worksheet 08</li>
@@ -195,6 +198,7 @@
                 <ul>
                     <li>Readings.</li>
                 </ul>
+            </td>
             <td style="text-align: left;">
                 <ul>
                     <li>Midterm #2 (Nov 2nd)</li>
@@ -220,6 +224,7 @@
                 <ul>
                     <li>Readings.</li>
                 </ul>
+            </td>
             <td style="text-align: left;">
                 <ul>
                     <li>Worksheet 10</li>
@@ -239,6 +244,7 @@
                 <ul>
                     <li>Readings.</li>
                 </ul>
+            </td>
             <td style="text-align: left;">
                 <ul>
                     <li>Worksheet 11</li>
@@ -258,6 +264,7 @@
                 <ul>
                     <li>Readings.</li>
                 </ul>
+            </td>
             <td style="text-align: left;">
                 <ul>
                     <li>...</li>
@@ -276,6 +283,7 @@
                 <ul>
                     <li>Readings.</li>
                 </ul>
+            </td>
             <td style="text-align: left;">
                 <ul>
                     <li>...</li>
