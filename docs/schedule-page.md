@@ -296,9 +296,9 @@
 All due dates will be on the last day of the week (Saturday at 23:59:59).
 
 #### Test Dates
-- Midterm 1: Tuesday, October 05 at 12:30pm
-- Midterm 2: Tuesday, August 3 at 2:30pm
-- Final Exam: Tue Aug 17 2021, 15:30 pm.
+- Midterm 1: Tuesday, October 5th at 12:30pm
+- Midterm 2: Tuesday, November 2nd at 12:30pm
+- Final Exam: TBA.
   
 ### Learning Outcomes per Week
 
