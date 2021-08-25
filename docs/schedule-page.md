@@ -1,6 +1,5 @@
 ## Schedule
-
-<table id="course-calendar">
+<table>
     <caption>Table 1: Course Calendar</caption>
     <thead>
         <tr>
@@ -285,7 +284,8 @@
         </tr>
     </tbody>
 </table>
-    All due dates will be on the last day of the week (Saturday at 23:59:59).
+
+All due dates will be on the last day of the week (Saturday at 23:59:59).
 
 #### Test Dates
 - Midterm 1: Tuesday, October 05 at 12:30pm
