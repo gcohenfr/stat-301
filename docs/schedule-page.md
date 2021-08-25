@@ -41,7 +41,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Required Readings <li>
+                    <li> Required Readings </li>
                 </ul>
             </td>
             <td style="text-align: left;">
