@@ -6,8 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>STAT 301</title>
     <script src="https://d3js.org/d3.v6.min.js"></script>
-    <script defer src='scripts/controller.js'></script>
-    <script defer src='scripts/schedule.js'></script>
+    <script src='scripts/controller.js'></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
         integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
         crossorigin="anonymous"></script>
@@ -20,7 +19,7 @@
 </head>
 
 <body>
-    <a href="" data-page="index.html" style="text-decoration: none;">
+    <a href="" data-page="index" style="text-decoration: none;">
         <header>
             <img alt="UBC logo" src="imgs/UBC-logo.png" />
             <h1>STAT 301</h1>
@@ -32,23 +31,15 @@
             <li class="dropdown">
                 <a href="">Course Information</a>
                 <div class="dropdown-content">
-                    <a href="" data-page="syllabus.html#Syllabus">Syllabus</a>
-                    <a href="" data-page="code-of-conduct.html">Code of Conduct</a>
-
+                    <a href="" data-page="syllabus">Syllabus</a>
+                    <a href="" data-page="code-of-conduct">Code of Conduct</a>
                 </div>
             </li>
-            <li><a href="" data-page="schedule.html" data-js="scripts/schedule.js">Schedule</a></li>
-
-            <li class="dropdown">
-                <a href="" data-page="">Course Content</a>
-                <div class="dropdown-content">
-                    <a href="" data-page="assignments.html">Assignments</a>
-                </div>
-            </li>
+            <li><a href="" data-page="schedule" data-js="scripts/schedule.js">Schedule</a></li>
             <li class="dropdown">
                 <a href="">Extra Resources</a>
                 <div class="dropdown-content">
-                    <a href="" data-page="resources-r.html">R</a>
+                    <a href="" data-page="resources-r">R</a>
                 </div>
             </li>
         </ul>
