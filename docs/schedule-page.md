@@ -395,6 +395,7 @@ By the end of this section, students will be able to:
 2. 	Explain the trade-offs between model-based and non-model based approaches, and describe situations where each might be the preferred approach.
 3. 	Write a computer script to perform model selection using lasso to fit a logistic regression useful for predictive modelling.
 4.   List model metrics that are suitable to evaluate predicted classes given by a predictive model with binary responses (e.g., Accuracy, Precision, Sensitivity, Specificity, Cohen's kappa).
-5. 	Write a computer script to compute these model metrics. Interpret and communicate the results from that computer script. 
+5. 	Write a computer script to compute these model metrics. Interpret and communicate the results from that computer script.
+ 
 #### Week 13: Project
 This week is designed as independent studying where the students will be working on the selected project.
