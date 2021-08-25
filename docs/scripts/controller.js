@@ -17,7 +17,9 @@ function load_page(path, path_js) {
             document.querySelector('main').innerHTML = text;
         })
         .then(() =>  {
-            load_from_md(path + "-page", "from-md");
+            load_from_md(path + "-page", "from-md");  
+        })
+        .then(() => {
             if (path_js) load_js(path_js);
         });
 }
