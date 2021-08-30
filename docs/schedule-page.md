@@ -16,12 +16,16 @@
             <td>Sept 05 ~ Sept 11</td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Topics </li>
+                    <li> A/B Testing </li>
+                    <ul>
+                        <li> Early Stopping </li>
+                        <li> Principled Peeking </li>
+                    </ul>
                 </ul>
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Required Readings </li>
+                    <li> Coming soon... </li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -36,12 +40,12 @@
             <td>Sept 12 ~ Sept 18</td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Topics </li>
+                    <li> A/B Testing with Multi-Armed Bandit </li>
                 </ul>
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Required Readings </li>
+                    <li> Coming soon... </li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -185,7 +189,7 @@
             <td> Oct 31 ~ Nov 06 </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Topics </li>
+                    <li>Midterm #2 (Nov 2nd)</li>
                 </ul>
             </td>
             <td style="text-align: left;">
@@ -195,7 +199,6 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li>Midterm #2 (Nov 2nd)</li>
                     <li>Project:
                         <ul>
                             <li>Peer Review</li>
