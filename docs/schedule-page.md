@@ -88,11 +88,6 @@
                 <ul>
                     <li>Worksheet 04</li>
                     <li>Tutorial 04</li>
-                    <li>Project:
-                        <ul>
-                            <li> Team Work Contract</li>
-                        </ul>
-                    </li>
                 </ul>
             </td>
         </tr>
@@ -112,7 +107,11 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> ... </li>
+                        <li>Project:
+                        <ul>
+                            <li> Team Work Contract</li>
+                        </ul>
+                    </li>
                 </ul>
             </td>
         </tr>
@@ -133,11 +132,6 @@
                 <ul>
                     <li>Worksheet 06</li>
                     <li>Tutorial 06</li>
-                    <li>Project:
-                        <ul>
-                            <li>Proposal</li>
-                        </ul>
-                    </li>
                 </ul>
             </td>
         </tr>
@@ -180,7 +174,7 @@
                     <li>Tutorial 08</li>
                     <li>Project:
                         <ul>
-                            <li>Peer Review</li>
+                            <li>Proposal</li>
                         </ul>
                     </li>
                 </ul>
@@ -202,6 +196,11 @@
             <td style="text-align: left;">
                 <ul>
                     <li>Midterm #2 (Nov 2nd)</li>
+                    <li>Project:
+                        <ul>
+                            <li>Peer Review</li>
+                        </ul>
+                    </li>
                 </ul>
             </td>
         </tr>
