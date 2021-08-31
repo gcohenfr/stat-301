@@ -11,7 +11,7 @@ Explanatory and predictive data analysis with multiple explanatory variables. Ch
 ### When and where?
 - The lectures will be on Tuesdays and Thursdays from 12:30 to 14:00.
 - The lectures will be held in Henry Angus building, Room 234. 
-- Office hours will be held on ... TBD.
+- Office hours will be held on Wednesdays 3:30pm via Zoom (link on Canvas).
 
 ### Software Platforms
 - Students will learn to perform their analysis using the [R programming language](https://cran.r-project.org/).
