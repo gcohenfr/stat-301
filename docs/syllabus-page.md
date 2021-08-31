@@ -19,7 +19,16 @@ Explanatory and predictive data analysis with multiple explanatory variables. Ch
 - Students will access the worksheets and tutorials in Jupyter Notebooks through Canvas. 
 
 ### Textbooks
-- To be defined.
+- James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning: With applications in R. 
+    - Available ONLINE at UBC Library: http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=6667014
+- Rafael Irizarry. Introduction to Data Science. 
+    - Available ONLINE at https://rafalab.github.io/dsbook/
+
+- **Modern Dive:** we used this book in STAT 201. This books also has some useful material for this course, in particular:
+    - [Chapter 5: Basic Regression](https://moderndive.com/5-regression.html)
+    - [Chapter 6: Multiple Regression](https://moderndive.com/6-multiple-regression.html)
+    - [Chapter 10: Inference for Regression](https://moderndive.com/10-inference-for-regression.html)
+
 
 ### Learning Outcomes
 By the end of the course, students are expected to be able to:

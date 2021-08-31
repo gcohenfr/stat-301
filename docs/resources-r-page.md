@@ -8,16 +8,6 @@ This book was written by Hadley Wickham and Garrett Grolemund. It is an incredib
 
 - To list chapters
 
-
-#### Modern Dive
-
-You used this book in STAT 201. This books also has some useful material for this course, in particular:
-
-- [Chapter 5: Basic Regression](https://moderndive.com/5-regression.html)
-- [Chapter 6: Multiple Regression](https://moderndive.com/6-multiple-regression.html)
-- [Chapter 10: Inference for Regression](https://moderndive.com/10-inference-for-regression.html)
-
-
 ### Cheatsheets
 RStudio provides a very well curated list of cheatsheets <a
         href="https://www.rstudio.com/resources/cheatsheets/">here</a>. For this course,
