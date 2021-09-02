@@ -50,6 +50,9 @@ RUN Rscript -e "install.packages('titanic', repos='http://cran.us.r-project.org'
 # Install performance package
 RUN Rscript -e "install.packages('performance', repos='http://cran.us.r-project.org')"
 
+# Install binom package
+RUN Rscript -e "install.packages('binom', repos='http://cran.us.r-project.org')"
+
 # Install jupyter extensions (nbgitpuller, git, jupytext)
 USER root
 
