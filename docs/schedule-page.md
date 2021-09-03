@@ -65,7 +65,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> [Chapter 1 of BMLR](https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html)</li>
+                    <li> <a href="https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html">Chapter 1 of BMLR</a></li>
                 </ul>
             </td>
             <td style="text-align: left;">
