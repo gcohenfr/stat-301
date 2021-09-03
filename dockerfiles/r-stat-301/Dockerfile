@@ -1,6 +1,6 @@
 # Copyright (c) UBC-DSCI Development Team.
 # Distributed under the terms of the Modified BSD License.
-ARG BASE_CONTAINER=jupyter/r-notebook
+ARG BASE_CONTAINER=ubcdsci/r-dsci-100
 FROM $BASE_CONTAINER
 
 LABEL maintainer="Tiffany Timbers <tiffany.timbers@gmail.com>"
@@ -62,8 +62,6 @@ RUN pip install git+https://github.com/data-8/nbgitpuller \
   && pip install jupytext --upgrade \
   && jupyter labextension install @techrah/text-shortcuts \
   && jupyter lab build  
-
-RUN useradd -m -s /bin/bash -N -u 9999 jupyter
 
 USER jupyter
 
