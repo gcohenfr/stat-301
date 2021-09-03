@@ -65,7 +65,7 @@
             </td>
             <td style="text-align: left;">
                 <ul>
-                    <li> Required Readings</li>
+                    <li> [Chapter 1 of BMLR](https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html)</li>
                 </ul>
             </td>
             <td style="text-align: left;">
