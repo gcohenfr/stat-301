@@ -3,7 +3,7 @@
 Explanatory and predictive data analysis with multiple explanatory variables. Choosing the right methods to apply based on the statistical question and data at hand. Trade-offs between model-based and non-model based approaches. Emphasis placed on case studies and real data sets, as well as reproducible and transparent workflows when writing computer scripts for analysis and reports.
 
 ### COVID-19 Statement
-Please, read the COVID-19 instructions for https://ubc-stat.github.io/stat-301/covid-safety.html.
+Please, read the [COVID-19 instructions](https://ubc-stat.github.io/stat-301/covid-safety.html).
 
 ### Prerequisites
 - STAT 201: Statistical Inference for Data Science
@@ -137,9 +137,9 @@ Our server will automatically snapshot at the due date/time. Also, please **do n
 
 #### Test Dates
 
-- Midterm 1: Tuesday, October 5 at 12:30pm</p>
-- Midterm 2: Tuesday, November 2 at 12:30pm</p>
-- Final Exam: TBD.</p>
+- Midterm 1: Tuesday, October 5 at 12:30pm
+- Midterm 2: Tuesday, November 2 at 12:30pm
+- Final Exam: TBD.
 
 #### Exams
 All the exams will be open-book. You can use whatever (<em>but not whoever</em>) you want. You **are not allowed** to communicate with another person during the exams. For all the exams, the platform used will be Canvas. The types of questions can vary: reasoning, multiple-choice, multiple-answer, dropdown, true or false. Although most questions will be about the content, you can expect a few coding questions. That being said, the coding question will not be overly complicated, and we will only check your familiarity with the main functions and packages we use in the course. We **are not** trying to test your memory!!! Please don't spend energy trying to memorize everything. If you had done the worksheets and tutorial, this should not be a problem for you.
