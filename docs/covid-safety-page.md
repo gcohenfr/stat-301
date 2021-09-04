@@ -1,4 +1,6 @@
-## Covid Safety in the Classroom  
+## Covid Safety 
+
+### Classroom Instructions
 
 For our in-person meetings in this class, it is important that all of us feel as comfortable as possible engaging in class activities while sharing an indoor space.
 

@@ -3,7 +3,7 @@
 Explanatory and predictive data analysis with multiple explanatory variables. Choosing the right methods to apply based on the statistical question and data at hand. Trade-offs between model-based and non-model based approaches. Emphasis placed on case studies and real data sets, as well as reproducible and transparent workflows when writing computer scripts for analysis and reports.
 
 ### COVID-19 Statement
-Please, read the COVID-19 instructions for https://ubc-stat.github.io/stat-301/covid-statement.html
+Please, read the COVID-19 instructions for https://ubc-stat.github.io/stat-301/covid-safety.html.
 
 ### Prerequisites
 - STAT 201: Statistical Inference for Data Science
