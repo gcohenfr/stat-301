@@ -52,23 +52,3 @@ RUN Rscript -e "install.packages('performance', repos='http://cran.us.r-project.
 
 # Install binom package
 RUN Rscript -e "install.packages('binom', repos='http://cran.us.r-project.org')"
-
-# Install jupyter extensions (nbgitpuller, git, jupytext)
-USER root
-
-RUN pip install git+https://github.com/data-8/nbgitpuller \
-  && jupyter serverextension enable --sys-prefix nbgitpuller \
-  && pip install jupyterlab-git \
-  && pip install jupytext --upgrade \
-  && jupyter labextension install @techrah/text-shortcuts \
-  && jupyter lab build  
-
-USER jupyter
-
-COPY rm-merge-shortcut.py /tmp/user-settings/\@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
-
-# Configure jupyter user
-ENV NB_USER=jupyter \
-  NB_UID=9999
-ENV HOME=/home/$NB_USER
-WORKDIR $HOME
