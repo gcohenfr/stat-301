@@ -5,15 +5,6 @@ FROM $BASE_CONTAINER
 
 LABEL maintainer="Tiffany Timbers <tiffany.timbers@gmail.com>"
 
-# Install R packages on conda-forge
-RUN conda install --quiet --yes -c conda-forge \
-  r-cowplot=1.1.* \
-  r-ggally=2.1.* \
-  r-gridextra=2.3 \
-  r-infer=0.5.* \
-  r-kknn=1.3.* \
-  r-rpostgres=1.3.*
-
 # Install testthat version 2.3
 RUN Rscript -e "devtools::install_version('testthat', version = '2.3.2', repos = 'http://cran.us.r-project.org')"
 
